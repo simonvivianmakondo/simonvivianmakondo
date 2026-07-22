@@ -132,3 +132,5 @@ Passerelle edge OT/IT en **C# / .NET 8** : Modbus TCP, OPC UA, MQTT, détection 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=simonvivianmakondo&theme=github_dark&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
+
+<!-- profile -->
